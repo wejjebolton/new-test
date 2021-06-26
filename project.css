@@ -1,0 +1,46 @@
+{
+	margin: 0;
+	padding: 0;
+}
+	
+.container {
+	background-image: url(images/background.png);
+	height: 100vh;
+	width: 100%;
+	background-position: center;
+	background-size:cover;
+	padding-left: 5%;
+	padding-right: 5%;
+	box-sizing: border-box;
+	position: relative;
+}
+
+.logo{
+	width: 70px;
+	cursor: pointer;
+}
+.cart{
+	width: 50px;
+	cursor: pointer;
+
+}
+
+}
+
+.arrow-icons{
+	margin-top: 40px;
+	display: flex;
+
+}
+.arrow-icons img{
+	width: 40px;
+	margin-right: 25px;
+
+}
+.feature-img{
+	height: 70%;
+	position: absolute;
+	bottom: 0;
+	right: 170px;
+
+}
